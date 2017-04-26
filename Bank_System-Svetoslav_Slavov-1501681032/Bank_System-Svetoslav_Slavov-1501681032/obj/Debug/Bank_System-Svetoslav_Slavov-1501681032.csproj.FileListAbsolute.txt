@@ -1,0 +1,42 @@
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Main.resources
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Enter.resources
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Banks_Currency.resources
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Report.resources
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Bank_Converter.resources
+c:\users\acer\documents\visual studio 2015\Projects\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Author.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe.config
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.pdb
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.pdb
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Author.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Banks_Currency.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Bank_Converter.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Enter.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Main.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Report.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Properties.Resources.resources
+C:\Users\Acer\Desktop\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.csproj.GenerateResource.Cache
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe.config
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.pdb
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.exe
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\bin\Debug\Bank_System-Svetoslav_Slavov-1501681032.pdb
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.csprojResolveAssemblyReference.cache
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Author.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Banks_Currency.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Bank_Converter.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Enter.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Main.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Form_Report.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System_Svetoslav_Slavov_1501681032.Properties.Resources.resources
+D:\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\Bank_System-Svetoslav_Slavov-1501681032\obj\Debug\Bank_System-Svetoslav_Slavov-1501681032.csproj.GenerateResource.Cache
